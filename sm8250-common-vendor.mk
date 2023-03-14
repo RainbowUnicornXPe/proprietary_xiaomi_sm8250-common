@@ -803,16 +803,10 @@ PRODUCT_PACKAGES += \
     SoterService \
     TimeService \
     PowerOffAlarm \
-    PerformanceMode \
-    PowerSaveMode \
     QtiTelephonyService \
-    workloadclassifier \
     ims \
     qcrilmsgtunnel \
     tcmclient \
-    QPerformance \
-    QXPerformance \
-    UxPerformance \
     audiosphere \
     com.qti.dpmframework \
     dpmapi \
